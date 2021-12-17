@@ -144,3 +144,7 @@
     background-position: 0% 50%;
   }
 }
+body {
+    background-image: url("https://chrome.google.com/webstore/detail/winter-night-in-moonlight/offcedjaceddaegkpebcocccakpdjkin?hl=de");
+    background-color: #cccccc;
+}
